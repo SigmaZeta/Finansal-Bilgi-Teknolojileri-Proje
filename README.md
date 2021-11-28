@@ -1,2 +1,2 @@
 # Finansal-Bilgi-Teknolojileri-Proje
-(Insert Name) isimli mobil uygulamamız
+Missions By Weather isimli mobil uygulamamız
